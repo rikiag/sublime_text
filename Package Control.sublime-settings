@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Can I Use",
+		"CodeIgniter Utilities",
+		"CSScomb",
+		"DocBlockr",
+		"Git",
+		"Material Theme",
+		"Nodejs",
+		"Package Control",
+		"SideBarEnhancements",
+		"Terminal",
+		"WakaTime"
+	]
+}

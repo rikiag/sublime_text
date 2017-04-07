@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"material_theme_accent_sky": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_tree_headings": true,
+	"theme": "Material-Theme.sublime-theme"
+}
