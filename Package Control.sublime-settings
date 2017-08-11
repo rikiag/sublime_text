@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alignment",
 		"All Autocomplete",
 		"BracketHighlighter",
@@ -21,7 +22,6 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-php",
-		"Sync Settings",
 		"Terminal",
 		"WakaTime"
 	]
