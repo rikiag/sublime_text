@@ -1,0 +1,9 @@
+{
+	//I using Cmder on windows
+	/*"terminal": "C:\\cmder\\Cmder.exe",
+	"parameters": ["/START", "%CWD%"],
+	"env": {}*/
+
+	//i using Deepin TErminal on Linux
+	"terminal": "deepin-terminal"
+}

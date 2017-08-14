@@ -18,5 +18,10 @@
 	"material_theme_tabs_autowidth": true,
 	"material_theme_tabs_separator": true,
 	"material_theme_tree_headings": true,
-	"theme": "Material-Theme.sublime-theme"
+	"theme": "Material-Theme.sublime-theme",
+	"overlay_scroll_bars": "enabled",
+    "always_show_minimap_viewport": true,
+    "bold_folder_labels": true,
+    "indent_guide_options": [ "draw_normal", "draw_active" ],   // Highlight active indent
+    "font_options": [ "gray_antialias" ],                       // For retina Mac
 }
