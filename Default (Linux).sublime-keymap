@@ -3,5 +3,7 @@
 	{ "keys": ["ctrl+alt+l"], "command": "reindent" },
 	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
 	{ "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
-	{ "keys": ["ctrl+alt+t"], "command": "open_terminal" }
+	{ "keys": ["ctrl+alt+t"], "command": "open_terminal" },
+	{ "keys": ["ctrl+right"], "command": "next_view" },
+	{ "keys": ["ctrl+left"], "command": "prev_view" }
 ]
